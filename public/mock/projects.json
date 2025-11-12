@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "title": "Project 1",
+    "tag": "Tag 1",
+    "summary": "The project shows improvement in overall efficiency..."
+  },
+  {
+    "id": 2,
+    "title": "Project 2",
+    "tag": "Tag 2",
+    "summary": "Minor delays observed in project delivery timelines..."
+  }
+]
